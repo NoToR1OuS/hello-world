@@ -4,4 +4,4 @@
     - name: Hello Message
       debug:
         msg: "Hello World!"
-      notify: You're mother is a hamster
+      shell: "wall You're mother is a hamster"
