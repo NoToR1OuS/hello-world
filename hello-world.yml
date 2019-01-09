@@ -5,4 +5,4 @@
       debug:
         msg: "Hello World!"
     - name: Wall Message
-      shell: "wall Your mother is a hamster"
+      shell: "wall Your father smelled of elderberries"
