@@ -5,3 +5,4 @@
       debug:
         msg: "Hello World!"
       wall: "Hello World!"
+      notify: You're mother is a hamster
